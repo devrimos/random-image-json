@@ -1,0 +1,252 @@
+[
+    {
+        "name": "elma",
+        "id": 1,
+        "url": "https://fidansepetim.com/uploads/p/p/3-Yas-Asili-Granny-Smith-Elma-Fidani-Yesil-Mayhos_1.jpg"
+    },
+    {
+        "name": "armut",
+        "id": 2,
+        "url": "https://images.marul.com/thumbs/009/0097170_armut_320.jpeg"
+    },
+    {
+        "name": "kiraz",
+        "id": 3,
+        "url": "https://www.cagri.com/Uploads/UrunResimleri/kiraz-kg-32a4.jpg"
+    },
+    {
+        "name": "araba",
+        "id": 4,
+        "url": "https://i.pinimg.com/600x315/9b/e3/6b/9be36b700ce21a80b7e7cb738f14ee7b.jpg"
+    },
+    {
+        "name": "deniz",
+        "id": 5,
+        "url": "https://cdn.yeniakit.com.tr/images/news/625/deniz-tam-bir-sifa-kaynagi-h1541251565-8a7c8e.jpg"
+    },
+    {
+        "name": "güneş",
+        "id": 6,
+        "url": "https://www.webtekno.com/images/editor/default/0002/18/0bfbc2bf7ccb7d29f8304bee33b134d72a4d2049.jpeg"
+    },
+    {
+        "name": "ay",
+        "id": 7,
+        "url": "https://i2.milimaj.com/i/milliyet/75/1100x570/6175df5045d2a0a10418df9b.jpg"
+    },
+    {
+        "name": "kedi",
+        "id": 8,
+        "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/16FA9/production/_92712149_gettyimages-480164327.jpg"
+    },
+    {
+        "name": "köpek",
+        "id": 9,
+        "url": "https://i4.hurimg.com/i/hurriyet/75/750x422/5e5771550f254405d052eb10.jpg"
+    },
+    {
+        "name": "kurt",
+        "id": 10,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Canis_lupus.jpg"
+    },
+    {
+        "name": "tilki",
+        "id": 11,
+        "url": "https://i2.milimaj.com/i/milliyet/75/0x0/5f25f6295542830e50a5fa0c.jpg"
+    },
+    {
+        "name": "balık",
+        "id": 12,
+        "url": "https://i2.milimaj.com/i/milliyet/75/1200x675/5f09f98e5542821c201ca8b1.jpg"
+    },
+    {
+        "name": "türk",
+        "id": 13,
+        "url": "https://foto.haberler.com/haber/2020/04/23/en-guzel-turk-bayragi-resimleri-en-kaliteli-turk-13152872_6208_amp.jpg"
+    },
+    {
+        "name": "türkiye",
+        "id": 14,
+        "url": "https://i2.milimaj.com/i/milliyet/75/0x0/6167e87a86b24429001ddc4e.jpg"
+    },
+    {
+        "name": "su",
+        "id": 15,
+        "url": "https://i2.milimaj.com/i/milliyet/75/1200x675/5ca7566e45d2a02864d931dc.jpg"
+    },
+    {
+        "name": "ağaç",
+        "id": 16,
+        "url": "https://st.myideasoft.com/idea/hn/08/myassets/blogs/en-saglam-agac.jpg"
+    },
+    {
+        "name": "ot",
+        "id": 17,
+        "url": "https://www.tarihiolaylar.com/img/tarihiolaylar/tarihi_olaylar_galeri_esrar-jpg_548016379_1441112448-jpg_317837328_1441205455.jpg"
+    },
+    {
+        "name": "kuş",
+        "id": 18,
+        "url": "https://i2.milimaj.com/i/milliyet/75/0x410/6177f53c86b2451f147e4773.jpg"
+    },
+    {
+        "name": "martı",
+        "id": 19,
+        "url": "https://www.yabanihayvanlar.com/wp-content/uploads/2021/08/marti.jpg"
+    },
+    {
+        "name": "maymun",
+        "id": 20,
+        "url": "https://www.cumhuriyet.com.tr/Archive/2021/7/19/1853798/kapak_150256.jpg"
+    },
+    {
+        "name": "goril",
+        "id": 21,
+        "url": "https://i01.sozcucdn.com/wp-content/uploads/2021/09/11/iecrop/gumus-sirt-goril_16_9_1631395094.jpg"
+    },
+    {
+        "name": "rte",
+        "id": 22,
+        "url": "https://pbs.twimg.com/profile_images/1151410974240444416/yVvaD7hU.jpg"
+    },
+    {
+        "name": "bulut",
+        "id": 23,
+        "url": "https://i4.hurimg.com/i/hurriyet/75/750x422/5b57f46b0490c813b8b41887.jpg"
+    },
+    {
+        "name": "karpuz",
+        "id": 24,
+        "url": "https://productimages.hepsiburada.net/s/6/1500/9722532986930.jpg"
+    },
+    {
+        "name": "kavun",
+        "id": 25,
+        "url": "http://www.tmmob.org.tr/sites/default/files/styles/icerik/public/kav.jpg?itok=gXnwbwup"
+    },
+    {
+        "name": "youtube",
+        "id": 26,
+        "url": "https://www.youtube.com/img/desktop/yt_1200.png"
+    },
+    {
+        "name": "google",
+        "id": 27,
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSLGq_D1XWmzA-gln_lFj_lxnP2uLlahawMniDurg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "facebook",
+        "id": 28,
+        "url": "https://www.ideasoft.com.tr/wp-content/uploads/2017/01/facebook-reklamlari-1-1024x536.jpg"
+    },
+    {
+        "name": "instagram",
+        "id": 29,
+        "url": "https://teknosafari.net/wp-content/uploads/2021/08/guvenli-instagram-kullanimi-icin-yapilmasi-gerekenler-8765457.jpg.png"
+    },
+    {
+        "name": "meyve",
+        "id": 30,
+        "url": "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/SVMPaLaA.jpg"
+    },
+    {
+        "name": "sebze",
+        "id": 31,
+        "url": "https://i.lezzet.com.tr/images-xxlarge-secondary/ekim-ayi-sebze-ve-meyveleri-nelerdir-8cb92e73-ea81-410a-85a1-faa343729a91.jpg"
+    },
+    {
+        "name": "insan",
+        "id": 32,
+        "url": "https://arkeofili.com/wp-content/uploads/2017/05/naled3.jpg"
+    },
+    {
+        "name": "yıldız",
+        "id": 33,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bob_Star_-_M45_Carranza_Field_%28by%29.jpg"
+    },
+    {
+        "name": "anime",
+        "id": 34,
+        "url": "https://i.pinimg.com/564x/9a/93/b4/9a93b448e9f961dc9db752de61f1decc.jpg"
+    },
+    {
+        "name": "domates",
+        "id": 35,
+        "url": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30013008/30013008_0_MC/8814444511282_1560925387535.jpg"
+    },
+    {
+        "name": "biber",
+        "id": 36,
+        "url": "https://toplasepeti.com/wp-content/uploads/2020/05/online-yesil-biber-siparisi-01.jpg"
+    },
+    {
+        "name": "aslan",
+        "id": 37,
+        "url": "https://www.yabanihayvanlar.com/wp-content/uploads/2019/05/aslan.jpg"
+    },
+    {
+        "name": "kaplan",
+        "id": 38,
+        "url": "https://pbs.twimg.com/profile_images/1459856547413176325/Tlzf9eM9_400x400.jpg"
+    },
+    {
+        "name": "timsah",
+        "id": 39,
+        "url": "https://cdnuploads.aa.com.tr/uploads/Contents/2020/06/15/thumbs_b_c_85a80e054e391d5b6c4104a30cc7dc05.jpg"
+    },
+    {
+        "name": "yılan",
+        "id": 40,
+        "url": "https://static.bnr.bg/gallery/cr/medium/c4d01cf39e6aa70c68f26af4ed787953.jpg"
+    },
+    {
+        "name": "fare",
+        "id": 41,
+        "url": "https://www.guzelizmirilaclama.com/wp-content/uploads/2020/04/fare.jpg"
+    },
+    {
+        "name": "dünya",
+        "id": 42,
+        "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/10ECC/production/_106542396_cd247099-a673-4e7b-ac6a-a68f2e42ffc3.jpg"
+    },
+    {
+        "name": "uzay",
+        "id": 43,
+        "url": "https://cdnuploads.aa.com.tr/uploads/Contents/2021/04/13/thumbs_b_c_59b2d5220d286c36e334865092c7493b.jpg"
+    },
+    {
+        "name": "telefon",
+        "id": 44,
+        "url": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113144_small.jpg"
+    },
+    {
+        "name": "bilgisayar",
+        "id": 45,
+        "url": "https://cdn.cimri.io/image/1200x1200/dizstbilgisayarfiyatlar_301029036.jpg"
+    },
+    {
+        "name": "meta",
+        "id": 46,
+        "url": "https://jp.techcrunch.com/wp-content/uploads/2021/12/2021-12-06-003-index.jpg"
+    },
+    {
+        "name": "github",
+        "id": 47,
+        "url": "https://mobidictum.biz/wp-content/uploads/2021/12/github-nedir-nasil-kullanilir-ne-ise-yarar.jpg"
+    },
+    {
+        "name": "saat",
+        "id": 48,
+        "url": "https://productimages.hepsiburada.net/s/41/375/10699106811954.jpg"
+    },
+    {
+        "name": "tavşan",
+        "id": 49,
+        "url": "https://i2.milimaj.com/i/milliyet/75/1200x675/5efe235a55428500d8719581.jpg"
+    },
+    {
+        "name": "kartal",
+        "id": 50,
+        "url": "https://blog.sembolfal.com/content/images/size/w2000/2019/01/kartal.jpg"
+    }
+]
